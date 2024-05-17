@@ -38,7 +38,7 @@ Since, β1 and β2 are high enough, we can write the above statement as:
  ```β Darlington ≈ β 1 * β 2 ```
 This connection creates the effect of a single transistor with a very high-current gain.
 
-![image](![4](https://github.com/tarantula3/ULN2003/assets/7583272/c7b99b87-966a-451c-9aad-7c6cea589c24))
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGh5ZrI1CZ1Buc3JLoKmIDJCSZj9xRp95r-zjw56DkmCsWp7mcgcts1MwTCqbxfksvL0GsMalo9ZmK-q4B613YFK81RgSgb9wzG6wUa1s0XMu6tTSuZaH9cRLXd7-W4m_D6Tiov0KkY85EPmKIvLIvbjvUbKvED2xXs53Q40PHMEhu38GTdkdP8tc_mg4Z/w640-h360/4.png)
 
 The 7 outputs are all "Open Collector".
 By Open Collector, we mean a collector that is not attached to anything. It's just open.
@@ -66,7 +66,7 @@ Pin 8 is connected to the GND.
 
 Device Functional Modes
 -----------------------
-![image](![6](https://github.com/tarantula3/ULN2003/assets/7583272/8669cb03-682c-48f1-aace-059030ef1775))
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdgdEBIwS_k10mJlaHKe-WeFLBRKujAux7u0dd39a4Bm-AtAn-L-fb2dFkVjNaHPVICeYoa5PMdEQ4VGgHP-L3UPpTcgKe0xm1P9j_4Wxk4Tq5Jz7WAqoVCXEjM8wb5GXo1rMb0m8dYZMHMEzRfSGSCarHToJH-Ka-0_rLkwMNi0Xl1VZfZtB9VjwEmow/w640-h360/6.png)
 
 Inductive Load
 In case of an inductive load, when the COM pin is tied to a coil, the IC is able to drive inductive loads and suppress the kick-back voltage through the internal free-wheeling diodes.
@@ -142,17 +142,24 @@ Thanks again for checking my post. I hope it helps you.
 If you want to support me subscribe to my YouTube Channel: https://www.youtube.com/user/tarantula3
 
 Video:  https://youtu.be/dtfGf7kf__g
+
 Full Blog Post:  https://diy-projects4u.blogspot.com/2024/05/All-About-IC-UNL2003.html
 
 
 References
 ----------
 DataSheet:  https://github.com/tarantula3/ULN2003
+
 Darlington transistor:  https://en.wikipedia.org/wiki/Darlington_transistor
+
 Open Collector Output:  https://www.learningaboutelectronics.com/Articles/Open-collector-output.php
+
 Transistor–Transistor Logic:  https://en.wikipedia.org/wiki/Transistor%E2%80%93transistor_logic
+
 CMOS:  https://en.wikipedia.org/wiki/CMOS
+
 Parasitic Structure:  https://en.wikipedia.org/wiki/Parasitic_structure
+
 
 
 Related Videos
@@ -163,6 +170,7 @@ NodeMCU Based - 3D Printed Indoor Gauge Thermometer:  https://www.youtube.com/wa
 Acronyms
 --------
 TTL: Transistor–Transistor Logic
+
 CMOS: Complementary Metal–Oxide–Semiconductor
 
 
@@ -193,8 +201,12 @@ Thanks, ca again in my next tutorial.
 
 
 Odysee : https://odysee.com/@Arduino:7/All-About-IC-ULN2003:d
+
 Rumble : https://rumble.com/v4umzvl-all-about-ic-uln2003.html
+
 Cos : https://cos.tv/videos/play/52680878888358912
 
+
 Blog1: https://diy-projects4u.blogspot.com/2024/05/All-About-IC-UNL2003.html
+
 Blog2: https://diyfactory007.blogspot.com/2024/05/All-About-IC-UNL2003.html
